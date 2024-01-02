@@ -1,2 +1,2 @@
-# First_Repo
-This is my first repository created for testing purpose.
+# gitdemo
+This is the readme file for gitdemo repository
